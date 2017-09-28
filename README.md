@@ -15,7 +15,6 @@
 ## 特别注意
 1. 本sdk要求的最低的jdk版本是8
 2. 支付时的编码只支持utf-8
-3. 如果想贡献代码，请阅读[代码贡献指南](https://github.com/Pay-Group/best-pay-sdk/blob/master/doc/CONTRIBUTION.md)
 
 ## 项目demo
 1. https://github.com/Pay-Group/best-pay-demo
